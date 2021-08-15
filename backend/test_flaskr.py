@@ -32,6 +32,14 @@ class TriviaTestCase(unittest.TestCase):
 
     # TODO: Write at least one test for each test for successful operation and for expected errors.
 
+    # TODO: Write 2 tests for the GET /questions endpoint
+    # TODO: Write 2 tests for the GET /categories endpoint
+    # TODO: Write 2 tests for the DELETE /questions/<int:question_id> endpoint
+    # TODO: Write 2 tests for the POST /questions endpoint
+    # TODO: Write 2 tests for the POST /categories/<int:category_id>/questions endpoint
+    # TODO: Write 2 tests for the POST /questions endpoint search
+    # TODO: Write 2 tests for the POST /quizzes endpoint
+
 
 # Make the tests conveniently executable
 if __name__ == "__main__":
