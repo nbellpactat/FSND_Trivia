@@ -30,8 +30,6 @@ class TriviaTestCase(unittest.TestCase):
         # Drop the database after each test to use the specific test data passed in during setup
         cleanup_db(self.app, self.database_path)
 
-    # TODO: Write at least one test for each test for successful operation and for expected errors.
-
     # TODO: Write 2 tests for the GET /questions endpoint
     # TODO: Write 2 tests for the GET /categories endpoint
     # TODO: Write 2 tests for the DELETE /questions/<int:question_id> endpoint
